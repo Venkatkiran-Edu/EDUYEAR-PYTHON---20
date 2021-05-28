@@ -1,8 +1,8 @@
 #DAY 3
 #AGE CALCULATOR
-current year = 2021
-birth year = int(input("Enter your birth year: "))
-age = current year - birth year
+currentyear = 2021
+birthyear = int(input("Enter your birth year: "))
+age = currentyear - birthyear
 print("Your current age is: " , age)
 
 #SIMPLE CALCULATOR
